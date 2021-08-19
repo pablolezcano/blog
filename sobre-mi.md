@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mi
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hola! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Mi historia
 
-What else do you need?
+Me llamo Pablo, soy una persona apasionada por la tecnología y los videojuegos (especificamente e-sports). Me gusta crear cosas que puedan generar una solución o mejorar un poquito en la vida cotidiana de las personas. Por esto mismo, aprendí de forma autónoma a programar e incursionarme de lleno a este mundo. 
+Mis primeros pasos en la programación fue en la secundaria armando cositas con Arduino y un Raspberry Pi. Con el Arduino armé un router CNC, lo diseñé y lo programé. En ese momento también diseñaba objetos en 3D y me llamaba mucho la atención el diseño, la ergonomía de las cosas y como la tecnología se complementaba de manera orgánica con el diseño. Por este motivo arranque a estudiar Diseño Industrial, sin dejar de lado la programación que era mi hobby y cable a tierra. En el transcurso del inicio de la carrera arrancó una pandemia que provocó que volviera a mi ciudad natal y enfocarme mucho más en la programación para distraerme y pasar el tiempo de una mejor manera. 
 
-### My story
+En ese momento, me di cuenta que podria ser una buena idea meterme de lleno en la programación y aprender tecnologías en profundidad y dedicarme a esto.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
